@@ -1,3 +1,6 @@
+![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
+[View License](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 # 🌸 LDA_Iris_Dataset_Analysis
 This project demonstrates how to apply **Linear Discriminant Analysis (LDA)** on the famous **Iris dataset** to visualize class separation and reduce dimensionality for classification purposes.
 
